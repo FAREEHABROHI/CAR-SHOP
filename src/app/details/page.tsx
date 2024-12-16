@@ -139,7 +139,7 @@ export default function Page() {
           <div className="flex flex-col w-full lg:max-w-[492px] h-auto lg:max-h-[508px] bg-white justify-between rounded-xl shadow-md">
             <div className='w-[492px] h-[508px] border-r-[1px] border-l-black white-600 text-black'>
               <h1 className='line-height-48px font-bold w-700px left:24px top-[25px] mt-10 ml-7'>Nissan GT - R</h1>
-              <p className='ml-4'>NISMO has become the embodiment of Nissan's outstanding performance, inspired by the most unforgiving proving ground, the "race track".</p>
+              <p className='ml-4'>NISMO has become the embodiment of Nissan&apos;s outstanding performance, inspired by the most unforgiving proving ground, the &quot;race track&quot;.</p>
 
               <div className='flex gap-10'>
                 <h6 className='text-gray-500 text-sm size-20px mt-7 line-hight-44 font-sans'>TypeCar</h6>
